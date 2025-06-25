@@ -1,5 +1,5 @@
 import React from "react";
-import SingleContactSocial from "./SIngleContactSocial";
+import SingleContactSocial from "./SingleContactSocial";
 import { FaInstagram, FaLinkedinIn } from "react-icons/fa";
 import { FiGithub } from "react-icons/fi";
 import { personal } from "../../data/Data";

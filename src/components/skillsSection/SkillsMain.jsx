@@ -21,7 +21,7 @@ const SkillsMain = () => {
           <AllSkills />
         </div>
         <div className="sm:block lg:hidden">
-          <AllSkillsSm />
+          <AllSkillsSm/>
         </div>
       </div>
     </div>
