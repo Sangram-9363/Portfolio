@@ -2,7 +2,7 @@ import React from "react";
 import ContactMeLeft from "./ContactMeLeft";
 import ContactMeRight from "./ContactMeRight";
 import { motion } from "framer-motion";
-import { fadeIn } from "../../framerMotion/variants";
+import { fadeIn } from "../../framerMotion/Variants";
 
 const ContactMeMain = () => {
   return (
