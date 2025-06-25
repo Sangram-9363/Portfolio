@@ -1,5 +1,4 @@
-import React from "react";
-import NavBar from "./components/navbar/Navbar";
+import NavBar from "./components/navbar/NavBar";
 import HeroMain from "./components/hero/HeroMain";
 import HeroGradient from "./components/hero/HeroGradient";
 import SubHeroMain from "./components/subHeroSection/SubHeroMain";
