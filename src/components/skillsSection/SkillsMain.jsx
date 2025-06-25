@@ -1,9 +1,9 @@
 import React from "react";
 import SkillsText from "./SkillsText";
-import AllSkillsSM from "./AllSkillsm";
 import AllSkills from "./AllSkills";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/Variants";
+import AllSkillsSm from "./AllSkillsSM";
 
 const SkillsMain = () => {
   return (
@@ -21,7 +21,7 @@ const SkillsMain = () => {
           <AllSkills />
         </div>
         <div className="sm:block lg:hidden">
-          <AllSkillsSM />
+          <AllSkillsSm />
         </div>
       </div>
     </div>
