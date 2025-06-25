@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import { motion } from "framer-motion";
-import { fadeIn } from "../../framerMotion/variants";
+import { fadeIn } from "../../framerMotion/Variants";
 
 const ContactForm = () => {
   const [name, setName] = useState("");

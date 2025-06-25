@@ -1,7 +1,7 @@
 import React from "react";
 import { skills } from "../../data/Data";
 import { motion } from "framer-motion";
-import { fadeIn } from "../../framerMotion/variants";
+import { fadeIn } from "../../framerMotion/Variants";
 
 const AllSkillsSM = () => {
   return (
