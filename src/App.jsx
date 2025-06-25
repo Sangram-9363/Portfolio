@@ -1,4 +1,4 @@
-import NavBar from "./components/navbar/NavBar";
+import Navbar from "./components/navbar/Navbar";
 import HeroMain from "./components/hero/HeroMain";
 import HeroGradient from "./components/hero/HeroGradient";
 import SubHeroMain from "./components/subHeroSection/SubHeroMain";
@@ -12,7 +12,7 @@ import FooterMain from "./components/footerSection/FooterMain";
 const App = () => {
   return (
     <main className="font-body text-white relative overflow-hidden">
-      <NavBar />
+      <Navbar />
       <HeroMain />
       <HeroGradient />
       <SubHeroMain />
