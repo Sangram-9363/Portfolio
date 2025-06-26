@@ -6,7 +6,7 @@ const NavbarButton = () => {
     const resumeUrl = "/resume/SangramResume.pdf";
     const link = document.createElement("a");
     link.href = resumeUrl;
-    link.setAttribute("download", "Sangram_Resume.pdf");
+    link.setAttribute("download", "SangramNikam_Resume.pdf");
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
